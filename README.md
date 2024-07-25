@@ -12,6 +12,7 @@ I am a web developer who loves creating projects!
 * 🧠  Currently focused on Python and Backend Development
 * 🤝  I'm open to collaborating on projects as a Backend Developer. Especially working with fetching APIs and Flask framework. 
 * ⚡  Best show ever is demon slayer!
+----------------------------------------------------------------------------------------------------------------------------------
 
 ###  💫Programming Skills:
 
@@ -25,13 +26,13 @@ I am a web developer who loves creating projects!
 <p align="left"> <a href="https://www.linkedin.com/in/legend-andrews/" rel="noreferrer"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="32" height="32" /></a></p>
 <p align="left"> <a href="https://www.github.com/cantrell24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
+### ✅ Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cantrell24"><img src="https://github-readme-stats.vercel.app/api?username=cantrell24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cantrell24's GitHub stats" /></a>
 
-<a href="http://www.github.com/cantrell24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cantrell24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/cantrell24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cantrell24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
