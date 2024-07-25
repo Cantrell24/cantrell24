@@ -11,7 +11,7 @@ I am a web developer who loves creating projects!
 * ✉️  You can contact me at [caandrews18@gmail.com](mailto:caandrews18@gmail.com)
 * 🧠  Currently focused on Python and Backend Development
 * 🤝  I'm open to collaborating on projects as a Backend Developer. Especially working with fetching APIs and Flask framework. 
-* ⚡  Best show ever is demon slayer!
+* 💥  Best show ever is Demon Slayer!
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ###  💫Programming Skills:
@@ -24,7 +24,6 @@ I am a web developer who loves creating projects!
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/legend-andrews/" rel="noreferrer"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="32" height="32" /></a></p>
-<p align="left"> <a href="https://www.github.com/cantrell24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### ✅ Badges
 
