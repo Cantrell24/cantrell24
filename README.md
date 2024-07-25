@@ -20,7 +20,7 @@ I am a web developer who loves creating projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cantrell-andrews-43b50728b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cantrell-andrews-43b50728b/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/cantrell-andrews-43b50728b/](https://www.linkedin.com/mynetwork/grow/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cantrell-andrews-43b50728b/" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://www.github.com/cantrell24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
