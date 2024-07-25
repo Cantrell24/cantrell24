@@ -22,7 +22,7 @@ I am a web developer who loves creating projects!
 <p align="left">
 
 
-<p align="left"> <a href="[https://www.github.com/cantrell24" target=](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 <p align="left"> <a href="https://www.github.com/cantrell24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
