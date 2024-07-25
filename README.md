@@ -20,7 +20,7 @@ I am a web developer who loves creating projects!
 
 
 <h3 align="left"> 👥 Connect with me: </h3>
-<p align="left">
+<p align="left"></p>
 
 
 <p align="left"> <a href="https://www.linkedin.com/in/legend-andrews/" rel="noreferrer"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="32" height="32" /></a></p>
