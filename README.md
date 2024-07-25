@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a web developer who loves creating projects!
 
 * 🌍  I'm based in Miami
+* 📝 Check out my resume! https://app.flowcv.com/resume/content
 * ✉️  You can contact me at [caandrews18@gmail.com](mailto:caandrews18@gmail.com)
 * 🧠  Currently focused on Python and Backend Development
 * 🤝  I'm open to collaborating on projects as a Backend Developer. Especially working with fetching APIs and Flask framework. 
