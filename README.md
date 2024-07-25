@@ -20,12 +20,9 @@ I am a web developer who loves creating projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/
-legend-andrews
 
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cantrell-andrews-43b50728b/" height="30" width="40" /></a>
-</p>
 
+<p align="left"> <a href="[https://www.github.com/cantrell24" target=](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 <p align="left"> <a href="https://www.github.com/cantrell24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
