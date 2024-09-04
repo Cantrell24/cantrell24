@@ -8,7 +8,7 @@ I am a web developer who loves creating projects!
 
 * 🌍  I'm based in Miami
 * 📝 Check out my resume! https://app.flowcv.com/resume/content
-* ✉️  You can contact me at [caandrews18@gmail.com](mailto:caandrews18@gmail.com)
+* ✉️  You can contact me at [caandrews18@gmail.com](mailto:legend.andrews0@gmail.com)
 * 🧠  Currently focused on Python and Backend Development
 * 🤝  I'm open to collaborating on projects as a Backend Developer. Especially working with fetching APIs and Flask framework. 
 * 💥  Best show ever is Demon Slayer!
